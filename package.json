@@ -1,0 +1,23 @@
+{
+  "name": "shifi-server",
+  "version": "0.0.1",
+  "description": "Shifi Server",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliblack84/shifi-server.git"
+  },
+  "author": "AliBlack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliblack84/shifi-server/issues"
+  },
+  "homepage": "https://github.com/aliblack84/shifi-server#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^1.35.6",
+    "express": "^4.18.1"
+  }
+}
